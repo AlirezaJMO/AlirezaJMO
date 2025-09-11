@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 M.Sc. student in **Mechatronics Engineering** at University of Tehran  
+- 🎓 M.Sc. student in **Mechatronics Engineering** 
 - 🤖 Background in **Robotics & Control Systems**  
 - 🧠 Currently exploring **AI, Machine Learning, and Computer Vision**  
 - 👁️ Working on **Retinal Vessel Segmentation (Medical Imaging)**  
