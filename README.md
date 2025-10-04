@@ -42,7 +42,6 @@
   
   <!-- Others -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Jupyter_logo.svg" width="40" height="40" alt="Jupyter Notebook"/> 
 </p>
 
 ---
