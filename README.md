@@ -11,13 +11,16 @@
 - 🎓 M.Sc. student in **Mechatronics Engineering** 
 - 🤖 Background in **Robotics & Control Systems**  
 - 🧠 Currently exploring **AI, Machine Learning, and Computer Vision**  
-- 👁️ Working on **Retinal Vessel Segmentation (Medical Imaging)**  
+- 👁️ Working on **Medical Image & Video Processing (Fundus & Sclera Analysis, Retinal Vessel Segmentation)**  
 
 ---
 
 ## 🌐 Connect with Me
 <a href="https://linkedin.com/in/alireza-jmo" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://t.me/ControlEngineering98" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" width="40" alt="Telegram" />
 </a>
 
 ---
