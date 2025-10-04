@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🎓 M.Sc. student in **Mechatronics Engineering** 
 - 🤖 Background in **Robotics & Control Systems**  
-- 🧠 Currently exploring **Data Science, Machine Learning, Deep Learning, NLP, and Computer Vision** through a specialized bootcamp
+- 🧠 Currently exploring **Data Science, Machine Learning, Deep Learning, NLP, and Computer Vision** 
 - 👁️ Working on **Medical Image & Video Processing (Fundus & Sclera Analysis, Retinal Vessel Segmentation)**  
 
 ---
